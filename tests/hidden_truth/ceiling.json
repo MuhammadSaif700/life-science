@@ -1,0 +1,18 @@
+{
+  "status": "FINAL",
+  "notes": "Ceiling information calibrated to the pilot envelope for the current dataset.",
+  "population_specific_limits": {
+    "A": {
+      "split_excess_max": 0,
+      "merge_excess_max": 0
+    },
+    "B": {
+      "split_excess_max": 0,
+      "merge_excess_max": 0
+    },
+    "C": {
+      "split_excess_max": 0,
+      "merge_excess_max": 0
+    }
+  }
+}

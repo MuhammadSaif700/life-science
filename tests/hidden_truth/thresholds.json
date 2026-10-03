@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "status": "FINAL",
+  "notes": "Calibrated on the current pilot dataset using the task's matching hidden genet labels for the final benchmark gate.",
+  "by_population": {
+    "A": {
+      "split_excess_max": 0,
+      "merge_excess_max": 0
+    },
+    "B": {
+      "split_excess_max": 0,
+      "merge_excess_max": 0
+    },
+    "C": {
+      "split_excess_max": 0,
+      "merge_excess_max": 0
+    }
+  }
+}
